@@ -2776,3 +2776,6 @@ body .theme-button-one:hover {
 .switcher {
   display: none !important;
 }
+.logo {
+  width: 203px;
+}
